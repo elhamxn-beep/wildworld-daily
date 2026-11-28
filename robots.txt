@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elhamxn-beep.github.io/wildworld-daily/sitemap.xml
